@@ -4,9 +4,6 @@ My own templates and implementation of important algorithms and data structures 
 
 My profile: [Codeforces](https://codeforces.com/profile/aihdilnr), [Hashnode](https://hashnode.com/@anisaaa033)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ncduy0303/Competitive-Programming&type=Date)](https://star-history.com/#ncduy0303/Competitive-Programming&Date)
 
 ## Contest templates
   - [My template C++](Contest%20Template/main.cpp)
