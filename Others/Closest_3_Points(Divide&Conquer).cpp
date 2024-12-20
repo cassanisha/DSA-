@@ -13,7 +13,7 @@ const int INF = 1e9;
 const ll LINF = 1e18;
 
 struct pt {
-    double x, y
+    double x, y;
 };
 
 pt pts[MAX_N];
